@@ -1,6 +1,3 @@
-Here’s a professional and beginner-friendly `README.md` for your **Image Captioning with Attention** project. It includes project overview, setup instructions, folder structure, training, evaluation (with accuracy & BLEU), and sample results.
-
----
 
 ```markdown
 # 🖼️ Image Captioning with Attention Mechanism
@@ -146,17 +143,8 @@ Developed with guidance from \[OpenAI’s GPT-4o] and the AI/ML community.
 ## 📫 Contact
 
 For help, feedback, or contributions:
-**Your Name** – \[[your\_email@example.com](mailto:your_email@example.com)] – GitHub: `@yourusername`
+Akshu Grewal – GitHub: `@Akshu24Tech`
 
 ```
 
----
 
-Would you like me to:
-
-- Add this to an actual `README.md` file and download?
-- Generate badges (e.g., Python version, notebook status)?
-- Convert it into a GitHub-ready repository with commits?
-
-Let me know — happy to assist!
-```
