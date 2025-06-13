@@ -1,5 +1,4 @@
 
-```markdown
 # 🖼️ Image Captioning with Attention Mechanism
 
 This project implements an **Image Captioning model** using a **CNN encoder** (InceptionV3) and **LSTM decoder** with **Bahdanau Attention**. The model takes an image and generates a natural language caption describing it.
@@ -143,7 +142,7 @@ Developed with guidance from \[OpenAI’s GPT-4o] and the AI/ML community.
 ## 📫 Contact
 
 For help, feedback, or contributions:
-Akshu Grewal – GitHub: `@Akshu24Tech`
+Akshu Grewal – GitHub: `@Aksh24Tech`
 
 ```
 
